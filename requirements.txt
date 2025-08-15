@@ -1,4 +1,6 @@
-Flask==2.3.2
+fastapi
+uvicorn
+gunicorn==21.2.0
 crawlee
 playwright
-gunicorn==21.2.0
+apify-client
