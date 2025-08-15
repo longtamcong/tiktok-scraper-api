@@ -1,6 +1,4 @@
 Flask==2.3.2
-crawlee==0.4.0
-playwright==1.40.0
-pandas>=2.1.4
-apify==1.7.0
+crawlee
+playwright
 gunicorn==21.2.0
